@@ -20,6 +20,30 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "299882109624b727",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_PARA/Projects/Projects.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d3ced29b540602b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Templates.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -58,6 +82,14 @@
               "state": {
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "00789f7ab488f533",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ],
@@ -107,7 +139,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +155,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,9 +176,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,30 +211,39 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "publish:Publish changes...": false,
       "switcher:Open quick switcher": true,
       "graph:Open graph view": true,
       "canvas:Create new canvas": true,
-      "cmdr:QuickAdd: Create New Project": false,
-      "publish:Publish changes": true,
-      "cmdr:QuickAdd: Add to Project Kanban": false,
       "command-palette:Open command palette": true,
       "zk-prefixer:Create new unique note": true,
       "random-note:Open random note": true,
-      "obsidian-map-view:Open map view": false,
       "periodic-notes:Open today": false,
       "cmdr:QuickAdd: Add to Project Scratchpad": false,
+      "cmdr:QuickAdd: Create New Project": false,
+      "cmdr:QuickAdd: Add to Project Kanban": false,
       "cmdr:Linter: Lint the current file": false,
       "cmdr:QuickAdd: Capture Thought": false,
       "cmdr:Luhman: Insert Zettel Link": false,
-      "open-vscode:VSCode": false,
       "cmdr:QuickAdd: Move Zettel to Private": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
+      "obsidian-map-view:Open map view": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "open-vscode:VSCode": false
     }
   },
-  "active": "885911e69901227d",
+  "active": "615cd7309793c2a1",
   "lastOpenFiles": [
-    "Readwise-Example/Articles Test/The Ancient Japanese Technique That Produces Lumber Without Cutting Trees.md",
     "README.md",
+    "Templates/Templates.md",
+    "Inbox/Computer Capture/Computer Capture.md",
+    "Inbox/Computer Capture/2022-12-15-14-50-51.md",
+    "Inbox/Computer Capture/2022-12-15-14-50-23.md",
+    "Inbox/Computer Capture/2022-12-11--12-00-00.md",
+    "Inbox/Inbox.md",
+    "_PARA/Projects/Projects.md",
+    "_PARA/_PARA.md",
+    "Databases/CRM/CRM.md",
+    "Readwise-Example/Articles Test/The Ancient Japanese Technique That Produces Lumber Without Cutting Trees.md",
     "Readwise-Example/Readwise-Example.md",
     "_tutorial/_tutorial.md",
     "_tutorial/Attachments/Screenshot 2022-12-17 17-18-40.png",

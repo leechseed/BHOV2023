@@ -5,6 +5,42 @@
       "path": "README.md"
     },
     {
+      "basename": "Templates",
+      "path": "Templates/Templates.md"
+    },
+    {
+      "basename": "Computer Capture",
+      "path": "Inbox/Computer Capture/Computer Capture.md"
+    },
+    {
+      "basename": "2022-12-15-14-50-51",
+      "path": "Inbox/Computer Capture/2022-12-15-14-50-51.md"
+    },
+    {
+      "basename": "2022-12-15-14-50-23",
+      "path": "Inbox/Computer Capture/2022-12-15-14-50-23.md"
+    },
+    {
+      "basename": "2022-12-11--12-00-00",
+      "path": "Inbox/Computer Capture/2022-12-11--12-00-00.md"
+    },
+    {
+      "basename": "Inbox",
+      "path": "Inbox/Inbox.md"
+    },
+    {
+      "basename": "Projects",
+      "path": "_PARA/Projects/Projects.md"
+    },
+    {
+      "basename": "_PARA",
+      "path": "_PARA/_PARA.md"
+    },
+    {
+      "basename": "CRM",
+      "path": "Databases/CRM/CRM.md"
+    },
+    {
       "basename": "The Ancient Japanese Technique That Produces Lumber Without Cutting Trees",
       "path": "Readwise-Example/Articles Test/The Ancient Japanese Technique That Produces Lumber Without Cutting Trees.md"
     },
@@ -49,16 +85,8 @@
       "path": "_PARA/Projects/Test Project 2/Test Project 2.md"
     },
     {
-      "basename": "_PARA",
-      "path": "_PARA/_PARA.md"
-    },
-    {
       "basename": "CRM",
       "path": "Computed/CRM.md"
-    },
-    {
-      "basename": "CRM",
-      "path": "Databases/CRM/CRM.md"
     },
     {
       "basename": "Tasks",
@@ -71,10 +99,6 @@
     {
       "basename": "To Process",
       "path": "Computed/To Process.md"
-    },
-    {
-      "basename": "2022-12-11--12-00-00",
-      "path": "Inbox/Computer Capture/2022-12-11--12-00-00.md"
     },
     {
       "basename": "_tests",
@@ -97,10 +121,6 @@
       "path": "Inbox/Smartphone Capture/Smartphone Capture.md"
     },
     {
-      "basename": "Inbox",
-      "path": "Inbox/Inbox.md"
-    },
-    {
       "basename": "Scratchpad",
       "path": "Inbox/Scratchpad.md"
     },
@@ -111,14 +131,6 @@
     {
       "basename": "Trackers",
       "path": "Computed/Trackers.md"
-    },
-    {
-      "basename": "2022-12-15-14-50-51",
-      "path": "Inbox/Computer Capture/2022-12-15-14-50-51.md"
-    },
-    {
-      "basename": "2022-12-15-14-50-23",
-      "path": "Inbox/Computer Capture/2022-12-15-14-50-23.md"
     },
     {
       "basename": "2022-Q4",
